@@ -20,9 +20,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ernestotalamantes/claude-starter-kit.git"
+    "url": "git+https://github.com/talamantesernesto-a11y/claude-starter-kit.git"
   },
-  "homepage": "https://github.com/ernestotalamantes/claude-starter-kit#readme",
+  "homepage": "https://github.com/talamantesernesto-a11y/claude-starter-kit#readme",
   "files": [
     "skills/",
     "rules/",

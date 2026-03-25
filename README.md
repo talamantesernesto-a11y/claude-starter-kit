@@ -5,7 +5,7 @@ Skills, rules y metodologia curada para desarrollo productivo con Claude Code. P
 ## Instalacion
 
 ```bash
-claude install github:ernestotalamantes/claude-starter-kit
+claude install github:talamantesernesto-a11y/claude-starter-kit
 ```
 
 Eso es todo. Los skills, rules y commands se instalan automaticamente.
