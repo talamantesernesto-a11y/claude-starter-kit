@@ -1,0 +1,33 @@
+{
+  "name": "claude-starter-kit",
+  "version": "1.0.0",
+  "description": "Curated Claude Code skills, rules, and methodology for productive AI-assisted development. Battle-tested workflow: project scaffolding, TDD, code review, debugging, and planning.",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "rules",
+    "methodology",
+    "tdd",
+    "code-review",
+    "debugging",
+    "project-scaffolding",
+    "workflow",
+    "best-practices"
+  ],
+  "author": {
+    "name": "Ernesto Talamantes"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestotalamantes/claude-starter-kit.git"
+  },
+  "homepage": "https://github.com/ernestotalamantes/claude-starter-kit#readme",
+  "files": [
+    "skills/",
+    "rules/",
+    "commands/",
+    ".claude-plugin/plugin.json",
+    ".claude-plugin/README.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "claude-starter-kit",
+  "version": "1.0.0",
+  "description": "Curated skills, rules, and methodology for productive AI-assisted development — project scaffolding, TDD, code review, debugging, and planning",
+  "author": {
+    "name": "Ernesto Talamantes"
+  },
+  "homepage": "https://github.com/ernestotalamantes/claude-starter-kit",
+  "repository": "https://github.com/ernestotalamantes/claude-starter-kit",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "rules",
+    "methodology",
+    "tdd",
+    "code-review",
+    "debugging",
+    "workflow"
+  ]
+}
